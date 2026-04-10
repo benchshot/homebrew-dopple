@@ -1,6 +1,6 @@
 cask "dopple" do
-  version "0.0.0"
-  sha256 "72a00ccd01e339e424339a34c211fd7fcb597239eb4edbbe1512cc49b27182e1"
+  version "0.0.1"
+  sha256 "523378d949fda9531e6bf2467abb57e34d0078cd4a208883b172b7a411e29d09"
 
   url "https://pub-6f2292da664442f4abb42bde414c777b.r2.dev/dopple-#{version}.dmg"
   name "Dopple"
