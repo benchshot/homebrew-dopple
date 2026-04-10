@@ -9,3 +9,10 @@ For users to install:
 brew tap benchshot/dopple
 brew install --cask dopple
 ```
+
+For users to uninstall
+```
+brew uninstall --cask dopple
+brew untap benchshot/dopple
+brew tap benchshot/dopple && brew install --cask dopple
+```
