@@ -1,6 +1,6 @@
 cask "dopple" do
-  version "0.0.5"
-  sha256 "d9b378f0832a822b744ed911d1bc09d463f1bb7222d587f990f91b2aad6f1b61"
+  version "0.0.6"
+  sha256 "f5bada8e0bfb512758b4247c3e83e817018b6ee9319b14b28caab60dbda4c1cb"
 
   url "https://releases.doppleapp.com/dopple-#{version}.dmg"
   name "Dopple"
