@@ -1,8 +1,8 @@
 cask "dopple" do
-  version "0.0.4"
-  sha256 "166ddc16488873ca3198d5ece1645ad58f933f24bb9f4d487711936f338da114"
+  version "0.0.5"
+  sha256 "d9b378f0832a822b744ed911d1bc09d463f1bb7222d587f990f91b2aad6f1b61"
 
-  url "https://pub-6f2292da664442f4abb42bde414c777b.r2.dev/dopple-#{version}.dmg"
+  url "https://releases.doppleapp.com/dopple-#{version}.dmg"
   name "Dopple"
   desc "Git profile switcher for developers"
   homepage "https://doppleapp.com"
