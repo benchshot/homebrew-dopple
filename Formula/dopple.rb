@@ -6,6 +6,6 @@ class Dopple < Formula
   version "0.0.4"
 
   def install
-    bin.install "dopple"
+    bin.install "dopple-v#{version}" => "dopple"
   end
 end
